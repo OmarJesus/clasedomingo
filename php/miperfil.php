@@ -26,6 +26,9 @@
 	</table>
 
 	<?php 
+		//$fechaactual=date('Y');
+		//$fechanac=1990
+		//echo $edadactual=$fechactual-$fechanac;
 		echo "<br>";
 		$añoactual=2015;
 		$añodenacimiento=1990;
